@@ -1,10 +1,28 @@
 {
-  "produtos": [
-    { 
-      "id": 1, 
-      "descricao": "Sapato Social New York", 
-      "preco": "199.90",
-      "imagem": "produto.webp"
+   "produtos": [
+    {
+      "id": 1,
+      "descricao": "Sapato de palhaço",
+      "preco": "1.99",
+      "imagem": "sapato.png"
+    },
+    {
+      "id": 2,
+      "descricao": "Sapato masculino",
+      "preco": "159.99",
+      "imagem": "sapato.png"
+    },
+    {
+      "id": 3,
+      "descricao": "Sapato feminino",
+      "preco": "199.99",
+      "imagem": "sapato.png"
+    },
+    {
+      "id": 4,
+      "descricao": "",
+      "preco": "",
+      "imagem": "sapato.png"
     }
   ]
 }
